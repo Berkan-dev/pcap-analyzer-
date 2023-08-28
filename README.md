@@ -3,5 +3,5 @@ Please export the pcap file as csv file
  also, make sure to change the virustotal API key with yours 
   
 Usage :
-    python pcap.py -f <file name >
+    python pcap.py -f [file name] 
 also also, make sure the file and the tool are in the same directory
