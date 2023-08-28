@@ -4,4 +4,4 @@ Please export the pcap file as csv file
   
 Usage :
     python pcap.py -f <file name >
-    also also, make sure the file and the tool are in the same directory
+also also, make sure the file and the tool are in the same directory
